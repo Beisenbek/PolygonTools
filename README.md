@@ -8,3 +8,8 @@ gen.cpp - /*
  * 
  * It is typical behaviour of testlib generator to setup randseed by command line.
  */
+
+
+gen2.cpp - /*
+ * Outputs random n and n random numbers.
+ */
