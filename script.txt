@@ -1,0 +1,6 @@
+<#list 1..10 as testNumber>
+    gen2 7 10000 ${testNumber} > $
+</#list>
+<#list 11..100 as testNumber>
+    gen2 100 100000 ${testNumber} > $
+</#list>
